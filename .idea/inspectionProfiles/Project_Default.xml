@@ -1,0 +1,35 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="22">
+            <item index="0" class="java.lang.String" itemvalue="protobuf" />
+            <item index="1" class="java.lang.String" itemvalue="dg-logging" />
+            <item index="2" class="java.lang.String" itemvalue="werkzeug" />
+            <item index="3" class="java.lang.String" itemvalue="pytest-ordering" />
+            <item index="4" class="java.lang.String" itemvalue="dg-transformers-client" />
+            <item index="5" class="java.lang.String" itemvalue="pytest" />
+            <item index="6" class="java.lang.String" itemvalue="xlsxwriter" />
+            <item index="7" class="java.lang.String" itemvalue="allure-pytest" />
+            <item index="8" class="java.lang.String" itemvalue="grpcio-tools" />
+            <item index="9" class="java.lang.String" itemvalue="Jinja2" />
+            <item index="10" class="java.lang.String" itemvalue="markupsafe" />
+            <item index="11" class="java.lang.String" itemvalue="psutil" />
+            <item index="12" class="java.lang.String" itemvalue="machine-learning-framework" />
+            <item index="13" class="java.lang.String" itemvalue="pytest-cov" />
+            <item index="14" class="java.lang.String" itemvalue="extract-beans" />
+            <item index="15" class="java.lang.String" itemvalue="diff-lib" />
+            <item index="16" class="java.lang.String" itemvalue="grpcio" />
+            <item index="17" class="java.lang.String" itemvalue="u-shape-framework" />
+            <item index="18" class="java.lang.String" itemvalue="pdf2txt-decoder" />
+            <item index="19" class="java.lang.String" itemvalue="itsdangerous" />
+            <item index="20" class="java.lang.String" itemvalue="retry" />
+            <item index="21" class="java.lang.String" itemvalue="ujson" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
